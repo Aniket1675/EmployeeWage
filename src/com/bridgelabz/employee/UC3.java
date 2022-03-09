@@ -25,4 +25,5 @@ public class UC3
         emp_wage=emp_hour*emp_per_hour;
         System.out.println("Employee Wage"+ emp_wage);
     }
+    public static void main
 }
